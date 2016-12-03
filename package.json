@@ -1,0 +1,20 @@
+{
+  "name": "grrrrl",
+  "version": "1.0.0",
+  "description": "grrrrl is a project to compile tech talks by underrepresented communities in the technology industry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elischutze/grrrrl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elischutze/grrrrl/issues"
+  },
+  "homepage": "https://github.com/elischutze/grrrrl#readme"
+}
