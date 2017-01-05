@@ -1,0 +1,35 @@
+// Sass Guide:
+// 1) Install Sass: http://sass-lang.com/install
+// 2) Run sass command: "sass main.sass:main.css"
+// 3) Start up the auto convertion command of the sass file into the css file: "sass --watch main.sass:main.css"
+// 4) Write your code in sass and this is auto transform in css : ).
+
+//Google Fonts:
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700);
+
+//COLOR VARIABLES:
+$navy: #001F3F;
+$blue: #0074D9;
+$aqua: #7FDBFF;
+$teal:  #39CCCC;
+$olive: #3D9970;
+$green: #2ECC40;
+$lime: #01FF70;
+$yellow: #FFDC00;
+$orange: #FF851B;
+$red: #FF4136;
+$fuchsia: #F012BE;
+$purple: #B10DC9;
+$maroon: #85144B;
+$white: #FFFFFF;
+$silver: #DDDDDD;
+$gray: #AAAAAA;
+$black: #111111;
+$blue-mid: #0e68b8;
+$dark-gray: #1d1d1d;
+
+
+
+body{
+  color: black
+}
